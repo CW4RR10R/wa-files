@@ -1,6 +1,14 @@
 {
   "android": [
     {
+      "title": "WhatsApp Messenger 2.22.25.12 beta",
+      "version": "2.22.25.12"
+    },
+    {
+      "title": "WhatsApp Messenger 2.22.24.76",
+      "version": "2.22.24.76"
+    },
+    {
       "title": "WhatsApp Messenger 2.22.25.11 beta",
       "version": "2.22.25.11"
     },
@@ -31,14 +39,6 @@
     {
       "title": "WhatsApp Messenger 2.22.23.84",
       "version": "2.22.23.84"
-    },
-    {
-      "title": "WhatsApp Messenger 2.22.24.25 beta",
-      "version": "2.22.24.25"
-    },
-    {
-      "title": "WhatsApp Messenger 2.22.23.85",
-      "version": "2.22.23.85"
     }
   ],
   "business": [
