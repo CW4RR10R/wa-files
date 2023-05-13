@@ -114,7 +114,7 @@ const run = async () => {
   const updateInfo = {}
   for (const src of configs) {
     var availableVersions = await parseVersions(src.slug)
-    updateInfo[src.title] = availableVersions.sort(e => e.version);
+    updateInfo[src.title] = availableVersions.reverse(e => e.version);
     // checking for updates by comparing this data with previous one since i dont wanna use a database so fetching data from github
     var prevData = JSON.parse(fs.readFileSync('releases.json', 'utf8'));
 
