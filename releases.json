@@ -43,6 +43,22 @@
   ],
   "business": [
     {
+      "title": "WhatsApp Business 2.23.12.12 beta",
+      "version": "2.23.12.12"
+    },
+    {
+      "title": "WhatsApp Business 2.23.11.73",
+      "version": "2.23.11.73"
+    },
+    {
+      "title": "WhatsApp Business 2.23.12.9 beta",
+      "version": "2.23.12.9"
+    },
+    {
+      "title": "WhatsApp Business 2.23.12.8 beta",
+      "version": "2.23.12.8"
+    },
+    {
       "title": "WhatsApp Business 2.23.12.4 beta",
       "version": "2.23.12.4"
     },
@@ -65,22 +81,6 @@
     {
       "title": "WhatsApp Business 2.23.10.77",
       "version": "2.23.10.77"
-    },
-    {
-      "title": "WhatsApp Business 2.23.11.12 beta",
-      "version": "2.23.11.12"
-    },
-    {
-      "title": "WhatsApp Business 2.23.11.11 beta",
-      "version": "2.23.11.11"
-    },
-    {
-      "title": "WhatsApp Business 2.23.10.76",
-      "version": "2.23.10.76"
-    },
-    {
-      "title": "WhatsApp Business 2.23.10.74",
-      "version": "2.23.10.74"
     }
   ],
   "wearOs": [
