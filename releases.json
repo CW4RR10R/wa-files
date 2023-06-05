@@ -43,6 +43,10 @@
   ],
   "business": [
     {
+      "title": "WhatsApp Business 2.23.11.77",
+      "version": "2.23.11.77"
+    },
+    {
       "title": "WhatsApp Business 2.23.11.74",
       "version": "2.23.11.74"
     },
@@ -77,10 +81,6 @@
     {
       "title": "WhatsApp Business 2.23.11.18 beta",
       "version": "2.23.11.18"
-    },
-    {
-      "title": "WhatsApp Business 2.23.11.16 beta",
-      "version": "2.23.11.16"
     }
   ],
   "wearOs": [
