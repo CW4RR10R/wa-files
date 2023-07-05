@@ -1,6 +1,14 @@
 {
   "android": [
     {
+      "title": "WhatsApp Messenger 2.23.13.76",
+      "version": "2.23.13.76"
+    },
+    {
+      "title": "WhatsApp Messenger 2.23.13.77",
+      "version": "2.23.13.77"
+    },
+    {
       "title": "WhatsApp Messenger 2.23.14.14 beta",
       "version": "2.23.14.14"
     },
@@ -31,14 +39,6 @@
     {
       "title": "WhatsApp Messenger 2.23.14.6 beta",
       "version": "2.23.14.6"
-    },
-    {
-      "title": "WhatsApp Messenger 2.23.13.72",
-      "version": "2.23.13.72"
-    },
-    {
-      "title": "WhatsApp Messenger 2.23.13.71",
-      "version": "2.23.13.71"
     }
   ],
   "business": [
@@ -84,6 +84,10 @@
     }
   ],
   "wearOs": [
+    {
+      "title": "WhatsApp Messenger (Wear OS) 2.23.14.14 beta",
+      "version": "2.23.14.14"
+    },
     {
       "title": "WhatsApp Messenger (Wear OS) 2.23.10.10 beta",
       "version": "2.23.10.10"
