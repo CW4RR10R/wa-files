@@ -1,6 +1,18 @@
 {
   "android": [
     {
+      "title": "WhatsApp Messenger 2.23.18.4 beta",
+      "version": "2.23.18.4"
+    },
+    {
+      "title": "WhatsApp Messenger 2.23.18.3 beta",
+      "version": "2.23.18.3"
+    },
+    {
+      "title": "WhatsApp Messenger 2.23.17.72",
+      "version": "2.23.17.72"
+    },
+    {
       "title": "WhatsApp Messenger 2.23.17.71",
       "version": "2.23.17.71"
     },
@@ -13,12 +25,12 @@
       "version": "2.23.17.22"
     },
     {
-      "title": "WhatsApp Messenger 2.23.17.17 beta",
-      "version": "2.23.17.17"
-    },
-    {
       "title": "WhatsApp Messenger 2.23.17.16 beta",
       "version": "2.23.17.16"
+    },
+    {
+      "title": "WhatsApp Messenger 2.23.17.17 beta",
+      "version": "2.23.17.17"
     },
     {
       "title": "WhatsApp Messenger 2.23.17.15 beta",
@@ -27,18 +39,6 @@
     {
       "title": "WhatsApp Messenger 2.23.16.77",
       "version": "2.23.16.77"
-    },
-    {
-      "title": "WhatsApp Messenger 2.23.17.14 beta",
-      "version": "2.23.17.14"
-    },
-    {
-      "title": "WhatsApp Messenger 2.23.16.76",
-      "version": "2.23.16.76"
-    },
-    {
-      "title": "WhatsApp Messenger 2.23.17.13 beta",
-      "version": "2.23.17.13"
     }
   ],
   "business": [
