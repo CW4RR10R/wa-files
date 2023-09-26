@@ -85,6 +85,10 @@
   ],
   "wearOs": [
     {
+      "title": "WhatsApp Messenger (Wear OS) 2.23.20.7 beta",
+      "version": "2.23.20.7"
+    },
+    {
       "title": "WhatsApp Messenger (Wear OS) 2.23.20.3 beta",
       "version": "2.23.20.3"
     },
@@ -119,10 +123,6 @@
     {
       "title": "WhatsApp Messenger (Wear OS) 2.23.14.81",
       "version": "2.23.14.81"
-    },
-    {
-      "title": "WhatsApp Messenger (Wear OS) 2.23.14.14 beta",
-      "version": "2.23.14.14"
     }
   ]
 }
